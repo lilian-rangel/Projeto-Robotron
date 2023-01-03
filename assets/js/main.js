@@ -1,0 +1,9 @@
+const robotron = document.querySelector('#robotron');
+
+robotron.addEventListener('click', dizOi)
+
+function dizOi() {
+    console.log('oi')
+}
+
+// https://cursos.alura.com.br/course/javascript-manipulando-dom/task/106420
