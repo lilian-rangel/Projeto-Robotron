@@ -2,8 +2,7 @@
 <h1 align="center">Projeto: Robotron 2000</h1>
 <hr>
 <h2 align="center">Sobre o projeto :dart:</h2>
-<p> Curso da formação de JavaScript para o Front-End - Alura <br>
- <b>JavaScript: manipulando o DOM</b></p>
+<p> Curso da formação de JavaScript para o Front-End - Alura <b>JavaScript: manipulando o DOM</b></p>
 
 <p>Aprender a manipular elementos na árvore do DOM, interagir com HTML por meio do JavaScript, criar funções e operações lógicas.</p>
 
